@@ -79,3 +79,10 @@ body {
   mat-radio-button {
     margin-right: 12px;
   }
+
+  .results{
+    background-color: #fefefe;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
